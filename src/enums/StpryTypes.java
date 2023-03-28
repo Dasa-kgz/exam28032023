@@ -1,2 +1,5 @@
-package enums;public enum StpryTypes {
+package enums;
+
+public enum StpryTypes{
+    ONLINE, PHISICAL;
 }
